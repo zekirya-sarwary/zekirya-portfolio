@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zekirya-portfolio/static/css/main.0189cd30.css",
+    "main.js": "/zekirya-portfolio/static/js/main.ffe46877.js",
+    "index.html": "/zekirya-portfolio/index.html",
+    "main.0189cd30.css.map": "/zekirya-portfolio/static/css/main.0189cd30.css.map",
+    "main.ffe46877.js.map": "/zekirya-portfolio/static/js/main.ffe46877.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0189cd30.css",
+    "static/js/main.ffe46877.js"
+  ]
+}
