@@ -1,0 +1,51 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  background: #f4f6f9;
+  color: #333;
+}
+
+.App {
+  text-align: center;
+}
+
+header {
+  background: #2575fc;
+  color: white;
+  padding: 40px 0;
+}
+
+.projects {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+.project-card {
+  background: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 12px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+}
+
+.project-card a {
+  display: inline-block;
+  margin: 10px;
+  padding: 8px 12px;
+  background: #2575fc;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+}
+
+.project-card a:hover {
+  background: #1e5ed8;
+}
+
+footer {
+  background: #f0f0f0;
+  color: #666;
+  padding: 15px 0;
+  font-size: 0.9em;
+}
