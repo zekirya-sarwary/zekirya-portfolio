@@ -27,7 +27,24 @@ function App() {
       </header>
 
       <section className="projects">
-        <div>
+      <h1 class="section-title">About Me – Zekirya Sarwary</h1>
+<h2 class="subheading">What I Do</h2>
+
+<ul class="skills-list">
+   <li>Web Development</li>
+   <li>System Architecture</li>
+   <li>App Development</li>
+</ul>
+
+<div class="project-card">
+   <h3>Real Estate Listing Platform</h3>
+   <p>A modern website for real estate agencies.</p>
+   <div class="project-link"><a href="#">View Project</a></div>
+</div>
+
+<a class="contact-btn" href="#contact">Contact Me</a>
+
+        <div className=".portfolio-container">
         I’m Zekirya Sarwary, a passionate Web Developer, System Designer, and App Developer with 6+ years of professional experience in building modern, scalable, and high-performance digital products.
 I specialize in crafting smart, user-focused software solutions that help businesses grow, automate, and operate more efficiently.
 
