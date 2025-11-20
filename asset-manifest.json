@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/zekirya-portfolio/static/css/main.0189cd30.css",
-    "main.js": "/zekirya-portfolio/static/js/main.7ea79c9b.js",
+    "main.css": "/zekirya-portfolio/static/css/main.0a9cd018.css",
+    "main.js": "/zekirya-portfolio/static/js/main.c1b9f83f.js",
     "index.html": "/zekirya-portfolio/index.html",
-    "main.0189cd30.css.map": "/zekirya-portfolio/static/css/main.0189cd30.css.map",
-    "main.7ea79c9b.js.map": "/zekirya-portfolio/static/js/main.7ea79c9b.js.map"
+    "main.0a9cd018.css.map": "/zekirya-portfolio/static/css/main.0a9cd018.css.map",
+    "main.c1b9f83f.js.map": "/zekirya-portfolio/static/js/main.c1b9f83f.js.map"
   },
   "entrypoints": [
-    "static/css/main.0189cd30.css",
-    "static/js/main.7ea79c9b.js"
+    "static/css/main.0a9cd018.css",
+    "static/js/main.c1b9f83f.js"
   ]
 }
