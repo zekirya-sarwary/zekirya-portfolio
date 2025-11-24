@@ -13,7 +13,7 @@ const projects = [
     description:
       "A simple, responsive Calculator app built with HTML, CSS, and JavaScript. It supports Addition, Minus, Multiply, Division, and Percentage",
     liveLink: "https://zekirya-sarwary.github.io/calculator-app/",
-    codeLink: "https://github.com/zekirya-sarwary/todo-list-app",
+    codeLink: "https://github.com/zekirya-sarwary/calculator-app",
   },
   {
     title: "🏡 Real Estate Listing App (Coming Soon)",
